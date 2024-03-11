@@ -29,6 +29,9 @@ button:hover{
 p{
     font-size: 20px;
     width:90%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
 }
 #p1{
     margin-bottom: 50px;
