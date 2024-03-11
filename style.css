@@ -42,7 +42,7 @@ h1{
     width:80%;
 }
 #insta{
-    height: 100px;
+    height: 90%;
     border-radius:50px;
 }
 @keyframes animation1{
@@ -75,7 +75,7 @@ body{
     }
 }
 #what{
-    height: 100px;
+    height: 90%;
     border-radius: 50px;
 }
 footer{
