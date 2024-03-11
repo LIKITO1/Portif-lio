@@ -28,7 +28,7 @@ button:hover{
 }
 p{
     font-size: 20px;
-    width: 500px;
+    width: 100%;
 }
 #p1{
     margin-bottom: 50px;
@@ -39,6 +39,7 @@ h1{
     display:flex;
     align-items:center;
     justify-content:center;
+    width:100%;
 }
 #insta{
     height: 100px;
